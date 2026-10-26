@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Illustration of forecasting and scheduling"><rect width="400" height="240" rx="20" fill="#eef3ef"/><rect x="44" y="38" width="312" height="164" rx="12" fill="#fff" stroke="#cee9d6" stroke-width="3"/><path d="M72 153l47-35 48 14 48-47 50 20 57-46" fill="none" stroke="#4c6456" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M72 175h250" stroke="#dfe3e4" stroke-width="4"/><circle cx="322" cy="59" r="7" fill="#4c6456"/></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+  <title id="title">Research in Progress</title>
+  <desc id="desc">Illustration for an agentic AI forecasting and scheduling thesis.</desc>
+  <rect width="400" height="300" rx="22" fill="#e8f0e9"/>
+  <rect x="24" y="24" width="352" height="252" rx="16" fill="#f9fbf9" stroke="#cee0d2" stroke-width="2"/>
+  <rect x="48" y="48" width="304" height="154" rx="12" fill="#f0f5f1"/>
+  <path d="M70 167h260M70 130h260M70 93h260" fill="none" stroke="#d9e5dc" stroke-width="2"/>
+  <path d="M76 155l45-27 42 12 43-42 42 14 66-42" fill="none" stroke="#4c6456" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="314" cy="70" r="7" fill="#4c6456"/>
+  <text x="200" y="233" text-anchor="middle" fill="#40584a" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">RESEARCH IN</text>
+  <text x="200" y="257" text-anchor="middle" fill="#40584a" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PROGRESS</text>
+</svg>
